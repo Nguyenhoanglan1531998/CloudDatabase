@@ -1,0 +1,7 @@
+Tài khoản đăng nhập Somee.com: 
+	- ID: NHL15031998 (nhlan15031998@gmail.com)
+	- Password: Cntt@1234
+Tài khoản đăng nhập my.vertabelo.com:
+	- Email: nguyenhoanglan1531998@gmail.com
+	- Password: Cntt@1234
+Link mã nguồn trên Github -> https://github.com/Nguyenhoanglan1531998/CloudDatabase
